@@ -20,14 +20,22 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <br>
 
 ### 🔨 Languages and Tools:
-<p align="left">
-  <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" height="50px"/><br><sub>PyTorch</sub>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" height="50px"/><br><sub>PyTorch</sub>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" height="50px"/><br><sub>PyTorch</sub>
-</p>
-
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" height="50px"/><br>
+      <sub><b>PyTorch</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" height="50px"/><br>
+      <sub><b>PyTorch</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" height="50px"/><br>
+      <sub><b>PyTorch</b></sub>
+    </td>
+  </tr>
+</table>
 
 ### 📊 Github Stats
 <a href='https://github.com/rahul-jha98/github-stats-transparent'>
