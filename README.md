@@ -25,7 +25,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <br>
 
 ### 🔨 Languages and Tools:
-<div style="display:flex; flex-direction:none;"> 
+<div style="display:flex; flex-direction:row;"> 
     <div style="display:flex; flex-direction: column;">
         <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" height="50px"> 
         <p style="padding:0 !important; margin:0 !important;">PyTorch</p> 
