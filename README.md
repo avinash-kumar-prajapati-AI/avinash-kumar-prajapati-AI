@@ -25,20 +25,14 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <br>
 
 ### 🔨 Languages and Tools:
-<div style="display:flex; flex-direction:row;" class="language_div"> 
-    <div style="display:flex; flex-direction: column;">
-        <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" height="50px"> 
-        <p style="padding:0 !important; margin:0 !important;">PyTorch</p> 
-    </div> 
-    <div style="display:flex; flex-direction: column;">
-        <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" height="50px"> 
-        <p style="padding:0 !important; margin:0 !important;">PyTorch</p> 
-    </div> 
-    <div style="display:flex; flex-direction: column;">
-        <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" height="50px"> 
-        <p style="padding:0 !important; margin:0 !important;">PyTorch</p> 
-    </div> 
-</div>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" height="50px"/><br><sub>PyTorch</sub>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" height="50px"/><br><sub>PyTorch</sub>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" height="50px"/><br><sub>PyTorch</sub>
+</p>
+
 
 ### 📊 Github Stats
 <a href='https://github.com/rahul-jha98/github-stats-transparent'>
