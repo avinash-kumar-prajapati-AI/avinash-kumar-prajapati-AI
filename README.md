@@ -20,19 +20,57 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <br>
 
 ### 🔨 Languages and Tools:
-<table>
+<table align="center">
   <tr>
-    <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" height="50px"/><br>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" height="45px"/><br>
       <sub><b>PyTorch</b></sub>
     </td>
-    <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" height="50px"/><br>
-      <sub><b>PyTorch</b></sub>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" height="45px"/><br>
+      <sub><b>TensorFlow</b></sub>
     </td>
-    <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" height="50px"/><br>
-      <sub><b>PyTorch</b></sub>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg" height="45px"/><br>
+      <sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg" height="45px"/><br>
+      <sub><b>Android</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/kotlin/kotlin.svg" height="45px"/><br>
+      <sub><b>Kotlin</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg" height="45px"/><br>
+      <sub><b>Java</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" height="45px"/><br>
+      <sub><b>Firebase</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg" height="45px"/><br>
+      <sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg" height="45px"/><br>
+      <sub><b>TypeScript</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg" height="45px"/><br>
+      <sub><b>React</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg" height="45px"/><br>
+      <sub><b>Node.js</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" height="45px"/><br>
+      <sub><b>Git</b></sub>
     </td>
   </tr>
 </table>
