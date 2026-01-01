@@ -1,4 +1,4 @@
-# Hi, I'm Avinash Kumar Prajapati  
+# Welcome to my Github Profile | Make sure to follow  
 
 I do deep learning models finetuning, build agentic systems involving fullstack development and deployment and share project explanations on my YouTube channel.
 
