@@ -6,9 +6,8 @@ I do deep learning models finetuning, build agentic systems involving fullstack 
 
 ## Let’s Connect
 
-📌 **LinkedIn:** [Link]https://linkedin.com/in/avinash-kumar-prajapati-AI  
-📌 **Resume / CV:** (add link)  
-📌 **Email:** [Write a mail]avinash.k.prajapati.0@gmail.com
+- **LinkedIn:** [linkedin.com/in/avinash-kumar-prajapati-AI](https://linkedin.com/in/avinash-kumar-prajapati-AI)  
+- **Email:** [Write a mail](mailto:avinash.k.prajapati.0@gmail.com)
 
 ---
 
