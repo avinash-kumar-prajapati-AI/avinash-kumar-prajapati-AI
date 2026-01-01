@@ -1,85 +1,58 @@
-## Hey 👋, I'm Avinash!
-<a href='https://www.linkedin.com/in/avinash-kumar-prajapati-ai/'><img align='left' alt="linkedin" src="https://github.com/avinash-kumar-prajapati-AI/avinash-kumar-prajapati-AI/blob/main/assets/linkedin.svg" height='18px'/></a>
-<a href='https://twitter.com/jharahul98/'><img align='left' alt="twitter" src="https://github.com/avinash-kumar-prajapati-AI/avinash-kumar-prajapati-AI/blob/main/assets/twitter.svg" height='18px'/></a>
-<a href='https://www.kaggle.com/rahuljha98/'><img alt="kaggle" src="https://github.com/avinash-kumar-prajapati-AI/avinash-kumar-prajapati-AI/blob/main/assets/kaggle.svg" height='18px'/></a>
+# Hi, I'm Avinash Kumar Prajapati  
+**AI/ML Engineer | Computer Vision Practitioner | Full Stack Developer**
 
-I am a versatilist and easily adapt to different hats (ML Engineer 🤖 and AI Reasercher and Explorer, Full Stack Web Developer 🌐) depending on what the project requires. I love exploring new tech stack 💻. Reading and Applying them to build cool stuffs 🛠️. 
-  
-### 🧐 More About Me:
+🔍 I build intelligent systems that solve real-world problems across **AI, Machine Learning, Deep Learning, and Web Development**. I am passionate about applying research-grade models to practical products, and I thrive at the intersection of **data, code, and impact**.
 
-- 🔭 &nbsp; I’m currently working on **Image Segmentation and classifier and Highlighting features using GradCam model in Medical Field**
-- 🌱 &nbsp; I’m currently learning Genrative AI(Transformers, GAN{cGAN, SRGAN, StyleGAN etc..}) and LLM architecture; 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/avinash-kumar-prajapati-AI?tab=repositories)
-- 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
-- 💬 &nbsp; I will be happy to contribute my work in any AI related field projects;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/avinash-kumar-prajapati-ai/)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)
-- 📚 &nbsp; When I am free, I watch TED talks and Nature Photography of flowers and moments.
+---
 
-<br>
+## About Me  
+I am an adaptive **Machine Learning & AI Engineer** with hands-on experience building models (Image Segmentation, Classification, Grad-CAM explainability) and **full-stack applications** that bring data-driven insights into production. I enjoy learning bleeding-edge technologies and translating them into clean, scalable solutions. :contentReference[oaicite:0]{index=0}
 
-### 🔨 Languages and Tools:
-<table>
-  <tr>
-    <td align="center" width="110">
-      <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" height="45px"/><br>
-      <sub><b>PyTorch</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" height="45px"/><br>
-      <sub><b>TensorFlow</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg" height="45px"/><br>
-      <sub><b>Python</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg" height="45px"/><br>
-      <sub><b>Android</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/kotlin/kotlin.svg" height="45px"/><br>
-      <sub><b>Kotlin</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="110">
-      <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg" height="45px"/><br>
-      <sub><b>Java</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" height="45px"/><br>
-      <sub><b>Firebase</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg" height="45px"/><br>
-      <sub><b>JavaScript</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg" height="45px"/><br>
-      <sub><b>TypeScript</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg" height="45px"/><br>
-      <sub><b>React</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="110">
-      <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg" height="45px"/><br>
-      <sub><b>Node.js</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" height="45px"/><br>
-      <sub><b>Git</b></sub>
-    </td>
-  </tr>
-</table>
+- Currently working on **medical image segmentation & classification pipelines** using explainability techniques. :contentReference[oaicite:1]{index=1}  
+- Exploring **Generative AI**, **Transformers**, and advanced neural architectures. :contentReference[oaicite:2]{index=2}  
+- Committed to open-source contributions and real-world impact.
 
-### 🛠️ My Projects
-<a href="https://rahul-jha98.github.io/Artistify.ai/" target="_blank"> <img alt="artistify" src="./projects/artistify.svg" height="68" align="left"> </a>
-<a href="https://rahul-jha98.github.io/sheets-database/" target="_blank"> <img alt="sheetsdatabase" src="./projects/sheetsdatabase.svg"  height="68" align="left"> </a>
-<a href="https://github.com/rahul-jha98/README_icons" target="_blank"> <img alt="readmeicons" src="./projects/readmeicons.svg" height="68" align="left"> </a>
-<a href="https://thepasswordkeeper.netlify.app/" target="_blank"> <img alt="passwordkeeper" src="./projects/passwordkeeper.svg" height="68" align="left"> </a>
-<a href="https://github.com/rahul-jha98/PasswordKeeper" target="_blank"> <img alt="oxytracker" src="./projects/oxytracker.svg" height="68" align="left"> </a>
-<a href="https://wavelengths.netlify.app/" target="_blank"> <img alt="wavelength" src="./projects/wavelength.svg" height="68" align="left"> </a>
+---
+
+## Skills & Tech Stack
+
+**Machine Learning & AI:**  
+Python, PyTorch, TensorFlow, Scikit-Learn, OpenCV, Computer Vision, CNNs, Grad-CAM explainability.
+
+**Web & Full Stack:**  
+JavaScript, React, Node.js, REST APIs.
+
+**Tools & Dev:**  
+Git, Docker, Linux, Agile workflows.
+
+---
+
+## Featured Projects  
+(Click to explore code & documentation)
+
+| Project | Description |
+|---------|-------------|
+| **Image Segmentation & Classification** | End-to-end pipeline for medical imaging with explainable outputs (Grad-CAM) |
+| **AI/ML Research Notebooks** | Insightful notebooks on model design, evaluation, optimization |
+| **Full Stack Integrations** | Web UI + backend services demonstrating AI model deployments |
+
+Explore all my repositories and demos pinned on this profile.
+
+---
+
+## Achievements & Contributions
+- Built **AI/ML models** with practical applications in image understanding. :contentReference[oaicite:3]{index=3}  
+- Documented code and projects with clarity to help others learn and reuse. :contentReference[oaicite:4]{index=4}
+
+---
+
+## Let’s Connect
+
+📌 **LinkedIn:** https://linkedin.com/in/avinash-kumar-prajapati-AI  
+📌 **Resume / CV:** (link to your latest version)  
+📌 **Email:** (your professional email)
+
+---
+
+**Looking for collaborations, mentoring opportunities, and roles in AI/ML engineering.**  
+Open to contributions, research discussions, and innovative products.
