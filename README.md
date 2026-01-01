@@ -1,15 +1,14 @@
 # Hi, I'm Avinash Kumar Prajapati  
 
-I build AI systems that solve real-world problems using **Deep Learning and Agentic AI**, including **fine-tuning models** to generate structured outputs such as SQL queries, command sequences, and MCQ formats.
-My focus is on turning research-grade ideas into practical, scalable products—where data, code, and impact meet.
+I do deep learning models finetuning, build agentic systems involving fullstack development and deployment and share project explanations on my YouTube channel.
 
 ---
 
 ## Let’s Connect
 
-📌 **LinkedIn:** https://linkedin.com/in/avinash-kumar-prajapati-AI  
+📌 **LinkedIn:** [Link]https://linkedin.com/in/avinash-kumar-prajapati-AI  
 📌 **Resume / CV:** (add link)  
-📌 **Email:** (add email)
+📌 **Email:** [Write a mail]avinash.k.prajapati.0@gmail.com
 
 ---
 
